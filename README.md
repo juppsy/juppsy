@@ -14,7 +14,7 @@ In constant learning for improve my programming skills.
 ![Github stats](https://github-readme-stats.vercel.app/api?username=juppsy&show_icons=true&theme=dark)
 
 ### Top Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juppsy)](https://github.com/juppsy/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juppsy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--

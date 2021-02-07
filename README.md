@@ -1,9 +1,10 @@
 ### Hi there 👋, I'm Sebastian Latkolic from Iași, România!
 
-Web developer passionate about newest technologies and CyberSecurity.
-In constant learning for improve my programming skills.
+Web developer passionate about CyberSecurity and newest technologies.
+Constantly learning to improve my programming skills.
 
-- 🌱 I'm currently learning advanced topics of React and NodeJS.
+- 🌱 I'm currently learning advanced topics of React and NodeJS;
+- 👯 Open-Source Contribuitor of [FrontEnd.ro](https://github.com/FrontEnd-ro/frontend.ro) Project.
 
 ### You can also find me on
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipefialho)](https://www.linkedin.com/in/sebastian-latkolic-bb00ab199/)

@@ -6,6 +6,9 @@ Constantly learning to improve my programming skills.
 - 🌱 I'm currently learning advanced topics of React and NodeJS;
 - 👯 Open-Source Contribuitor of [FrontEnd.ro](https://github.com/FrontEnd-ro/frontend.ro) Project.
 
+### [My CV is right here!](https://juppsy.github.io/CV/)
+It's mobile responsive so you can see it from any device 😁.
+
 ### You can also find me on
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipefialho)](https://www.linkedin.com/in/sebastian-latkolic-bb00ab199/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/felipefialho_)](https://twitter.com/juppsy98)

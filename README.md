@@ -1,5 +1,13 @@
-### Hi there 👋, I'm Sebastian Latkolic from Iași, România!
+### Hi there 👋, I'm Sebastian!
 
+- ⚡ Fullstack WEB3 Developer using React + Solidity and Rust (especially Elrond WASM).
+- 💻 Co-Founder of [NETHLAB](https://www.nethlab.com/)
+
+### You can also find me on
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipefialho)](https://www.linkedin.com/in/sebastian-latkolic-bb00ab199/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/felipefialho_)](https://twitter.com/SebastianLatk)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seu_email)](mailto:latkolicsebastian@gmail.com)
+<!--
 Web developer passionate about CyberSecurity and newest technologies.
 Constantly learning to improve my programming skills.
 
@@ -31,7 +39,7 @@ It's mobile responsive so you can see it from any device 😁.
 
 ### Top Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juppsy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+-->
 
 <!--
 **juppsy/juppsy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
